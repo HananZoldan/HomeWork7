@@ -13,6 +13,8 @@ def read_log_file():
 
 if __name__ == '__main__':
     if (read_log_file()):
-        exit(1)
+        exit(0)
+  ##      exit(1)
+
 
 
